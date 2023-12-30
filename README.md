@@ -9,10 +9,10 @@
   1. Industry : REAL ESTATE WEBSITE HOUSE RENT & SALES
 
 # Roles & Responsibilities:
-**Deepika(Project management) - Manages the web development project.**
-**Soniya(Content management) - Responsible for managing the website content.**
-**Sai krishna(Documentation management) - Responsible for managing the Documentation process.**
-**Sai Kiran(Deployment management) - Deployment and maintenance of project infrastructure.**
+<br>**Deepika(Project management) - Manages the web development project.**<br>
+<br>**Soniya(Content management) - Responsible for managing the website content.**<br>
+<br>**Sai krishna(Documentation management) - Responsible for managing the Documentation process.**<br>
+<br>**Sai Kiran(Deployment management) - Deployment and maintenance of project infrastructure.**<br>
 
 # AZURE SERVICES USED:
 1. Azure Storage Account
