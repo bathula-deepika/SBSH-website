@@ -8,6 +8,12 @@
   1. Github Repository URL : (https://github.com/bathula-deepika/SBSH-website)
   1. Industry : REAL ESTATE WEBSITE HOUSE RENT & SALES
 
+# Roles & Responsibilities:
+Deepika(Project management) - Manages the web development project.
+Soniya(Content management) - Responsible for managing the website content.
+Sai krishna(Documentation management) - Responsible for managing the Documentation process.
+Sai Kiran(Deployment management) - Deployment and maintenance of project infrastructure.
+
 # AZURE SERVICES USED:
 1. Azure Storage Account
 2. Azure Blob Storage
