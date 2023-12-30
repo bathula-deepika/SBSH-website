@@ -13,7 +13,7 @@
 **Soniya(Content management)** - Responsible for managing the website content.<br>
 **Sai krishna(Documentation management)** - Responsible for managing the Documentation process.<br>
 **Sai Kiran(Deployment management)** - Deployment and maintenance of project infrastructure.<br>
-
+ghhg
 # AZURE SERVICES USED:
 1. Azure Storage Account
 2. Azure Blob Storage
