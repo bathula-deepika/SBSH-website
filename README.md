@@ -1,4 +1,4 @@
-# SBSH-website.
+# SBSH-website
 # "SIMPLE BUILD SIMPLE HEAVEN"
 "Unlock Your Dream Home: Where Every Key Opens a New Chapter."
 
