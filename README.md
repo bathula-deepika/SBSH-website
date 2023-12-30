@@ -9,7 +9,7 @@
   1. Industry : REAL ESTATE WEBSITE HOUSE RENT & SALES
 
 # Roles & Responsibilities:
-**Deepika(Project management)** - Manages the web development project. Created website and managed the website using HTML,CSS,Boostrap<br>
+**Deepika(Project management)** - Manages the web development project.<br>
 **Soniya(Content management)** - Responsible for managing the website content. Created<br>
 **Sai krishna(Documentation management)** - Responsible for managing the Documentation process.<br>
 **Sai Kiran(Deployment management)** - Deployment and maintenance of project infrastructure.<br>
