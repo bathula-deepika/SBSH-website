@@ -1,6 +1,6 @@
 # SBSH-website
 # "SIMPLE BUILD SIMPLE HEAVEN"
-"Unlock Your Dream Home: Where Every Key Opens a New Chapter."
+"Unlock Your Dream Home: Where Every Key Opens a New Chapter"
 
 # Project Details:
   1. Project Demo URL : (https://sbsh12354.z9.web.core.windows.net/)
