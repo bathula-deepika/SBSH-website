@@ -50,7 +50,7 @@ Azure App Service is a fully managed platform-as-a-service (PaaS) offering from 
 **Azure App Service Plan**<br>
 Azure App Service Plan is a foundational component within Microsoft Azure that defines the region, compute resources, and features available to host web applications, mobile app backends, and RESTful APIs using Azure App Service.<br>
 
-# AZURE AI SERVICES:.
+# AZURE AI SERVICES:
 **Azure Bot Service**<br>
 Azure Bot Service is a cloud-based service provided by Microsoft Azure that enables the development, deployment, and management of intelligent bots. Bots created using Azure Bot Service can interact with users across various channels, such as web, mobile, Microsoft Teams, Skype, and more.<br>
 **Manage Identity**<br>
