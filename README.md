@@ -10,7 +10,7 @@
 
 # Roles & Responsibilities:
 **Deepika(Project management)** - Manages the web development project.
-<br>**Soniya(Content management) - Responsible for managing the website content.**<br>
+**Soniya(Content management)** - Responsible for managing the website content.
 <br>**Sai krishna(Documentation management) - Responsible for managing the Documentation process.**<br>
 <br>**Sai Kiran(Deployment management) - Deployment and maintenance of project infrastructure.**<br>
 
