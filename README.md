@@ -58,7 +58,8 @@ Azure App Service Plan is a foundational component within Microsoft Azure that d
 # AZURE AI SERVICES:
 **Azure Bot Service**<br>
 Azure Bot Service is a cloud-based service provided by Microsoft Azure that enables the development, deployment, and management of intelligent bots. Bots created using Azure Bot Service can interact with users across various channels, such as web, mobile, Microsoft Teams, Skype, and more.<br>
-**AZURE BOT SERVICE**![azure bot service ss](https://github.com/bathula-deepika/SBSH-website/assets/152024848/be8a230d-29fb-425e-88a7-3a79e9d9c317)
+![azure bot service ss](https://github.com/bathula-deepika/SBSH-website/assets/152024848/be8a230d-29fb-425e-88a7-3a79e9d9c317)
+
 **Manage Identity**<br>
 Azure Managed Identity is a service in Microsoft Azure that enhances the security and ease of access to cloud resources by providing an identity management solution for applications and services.<br>
 **MANAGE IDENTITY**![manage identity](https://github.com/bathula-deepika/SBSH-website/assets/152024848/7b6c12dd-732d-4769-9f83-d5954fa3b54a)
