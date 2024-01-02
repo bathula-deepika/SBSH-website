@@ -18,8 +18,7 @@
 1. Azure Storage Account
 2. Azure Blob Storage
 3. Azure Backup Service
-4. Azure App Service
-5. Azure App Service Plan
+4. Azure App Service Plan
 
 # AZURE AI SERVICES USED:
 1. Azure Bot Service
@@ -48,8 +47,6 @@ Azure Storage Account is a cloud-based storage solution provided by Microsoft Az
 **Azure Backup Service**<br>
 Azure Backup Service is a cloud-based solution provided by Microsoft Azure that enables organizations to back up and protect their data and workloads in the cloud. It offers a reliable and scalable backup solution with features designed to safeguard critical information.<br>
 **BACKUP VAULT**![backup vault ss](https://github.com/bathula-deepika/SBSH-website/assets/152024848/9755c46a-b9d6-49a3-8e71-c9febb99ffcc)
-**Azure App Service**<br>
-Azure App Service is a fully managed platform-as-a-service (PaaS) offering from Microsoft Azure that enables developers to build, deploy, and scale web apps and APIs quickly and efficiently. It provides a comprehensive set of features and tools for developing and hosting applications without the complexity of managing infrastructure.<br>
 **Azure App Service Plan**<br>
 Azure App Service Plan is a foundational component within Microsoft Azure that defines the region, compute resources, and features available to host web applications, mobile app backends, and RESTful APIs using Azure App Service.<br>
 **APP SERVICE PLAN**![app service plan](https://github.com/bathula-deepika/SBSH-website/assets/152024848/05e441bf-44bf-4257-89d6-c285e3ad1041)
