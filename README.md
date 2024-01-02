@@ -44,7 +44,7 @@ Azure Storage Account is a cloud-based storage solution provided by Microsoft Az
 
 **Azure Blob Storage**<br>
  Azure Blob Storage is a cloud-based object storage service in Microsoft Azure, designed for storing and managing large amounts of unstructured data, such as documents, images, and videos. It provides scalable and secure storage, supporting different access tiers based on data usage patterns. Blob Storage is commonly used for backup, data archiving, and serving content to web applications.<br>
- **CONTAINER**![web app service ss](https://github.com/bathula-deepika/SBSH-website/assets/152024848/a2d1c585-44c5-471c-9b3e-ba0d13a7f8e5)
+ **BLOBSTORAGE**![container](https://github.com/bathula-deepika/SBSH-website/assets/151847629/ad9b9c9c-44ee-4d0e-8a04-2f77debba83d)
  **CONTAINER**![$web](https://github.com/bathula-deepika/SBSH-website/assets/152024848/45af2293-f489-438a-a62a-538936691447)
 **Azure Backup Service**<br>
 Azure Backup Service is a cloud-based solution provided by Microsoft Azure that enables organizations to back up and protect their data and workloads in the cloud. It offers a reliable and scalable backup solution with features designed to safeguard critical information.<br>
