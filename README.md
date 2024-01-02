@@ -52,10 +52,12 @@ Azure Storage Account is a cloud-based storage solution provided by Microsoft Az
  
 **Azure Backup Service**<br>
 Azure Backup Service is a cloud-based solution provided by Microsoft Azure that enables organizations to back up and protect their data and workloads in the cloud. It offers a reliable and scalable backup solution with features designed to safeguard critical information.<br>
+
 ![backup vault ss](https://github.com/bathula-deepika/SBSH-website/assets/152024848/9755c46a-b9d6-49a3-8e71-c9febb99ffcc)
 
 **Azure App Service Plan**<br>
 Azure App Service Plan is a foundational component within Microsoft Azure that defines the region, compute resources, and features available to host web applications, mobile app backends, and RESTful APIs using Azure App Service.<br>
+
 ![app service plan](https://github.com/bathula-deepika/SBSH-website/assets/152024848/05e441bf-44bf-4257-89d6-c285e3ad1041)
 
 # AZURE AI SERVICES:
@@ -69,8 +71,10 @@ Azure Managed Identity is a service in Microsoft Azure that enhances the securit
 
 **Azure AI Service**<br>
 Azure AI services encompass a suite of artificial intelligence (AI) offerings provided by Microsoft Azure, designed to empower developers and businesses to integrate AI capabilities into their applications and workflows.<br>
+
 **Search Service**<br>
 Azure Search Service is a fully managed, cloud-based search-as-a-service solution provided by Microsoft Azure. It allows developers to integrate powerful search capabilities into their applications without the need for complex infrastructure or extensive search engine expertise.<br>
+
 **SEARCH SERVICE**![search service ss](https://github.com/bathula-deepika/SBSH-website/assets/152024848/03425672-763c-419b-906d-9ac8f3250fac)
 
 # SCREENSHOTS
