@@ -44,6 +44,7 @@ Azure Storage Account is a cloud-based storage solution provided by Microsoft Az
 **Azure Blob Storage**<br>
  Azure Blob Storage is a cloud-based object storage service in Microsoft Azure, designed for storing and managing large amounts of unstructured data, such as documents, images, and videos. It provides scalable and secure storage, supporting different access tiers based on data usage patterns. Blob Storage is commonly used for backup, data archiving, and serving content to web applications.<br>
  **CONTAINER**![web app service ss](https://github.com/bathula-deepika/SBSH-website/assets/152024848/a2d1c585-44c5-471c-9b3e-ba0d13a7f8e5)
+ **CONTAINER**![$web](https://github.com/bathula-deepika/SBSH-website/assets/152024848/45af2293-f489-438a-a62a-538936691447)
 **Azure Backup Service**<br>
 Azure Backup Service is a cloud-based solution provided by Microsoft Azure that enables organizations to back up and protect their data and workloads in the cloud. It offers a reliable and scalable backup solution with features designed to safeguard critical information.<br>
 **BACKUP VAULT**![backup vault ss](https://github.com/bathula-deepika/SBSH-website/assets/152024848/9755c46a-b9d6-49a3-8e71-c9febb99ffcc)
@@ -69,7 +70,6 @@ Azure Search Service is a fully managed, cloud-based search-as-a-service solutio
 **LANGUAGE SERVICE**![language sevice ss](https://github.com/bathula-deepika/SBSH-website/assets/152024848/7e8dc97b-187c-4f1f-861b-72d827df37d3)
 **DATA PROTECTION**![data protection ss](https://github.com/bathula-deepika/SBSH-website/assets/152024848/64bee726-6b86-4341-bc46-54297533c79a)
 **BOT.HTML**![bot](https://github.com/bathula-deepika/SBSH-website/assets/152024848/1ff4de0b-7c1a-4e9e-9270-c9c015b58a18)
-**CONTAINER**![$web](https://github.com/bathula-deepika/SBSH-website/assets/152024848/45af2293-f489-438a-a62a-538936691447)
 **CHATBOT**![Screenshot 2023-12-21 151809](https://github.com/bathula-deepika/SBSH-website/assets/152024848/158ec500-cb9c-4fd5-ac17-895c63ef84a0)
 
 # WORKING LIVE PROJECT DISPLAY:
