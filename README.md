@@ -102,12 +102,19 @@ Azure Search Service is a fully managed, cloud-based search-as-a-service solutio
 ![s6](https://github.com/bathula-deepika/SBSH-website/assets/152024848/563e257e-6c14-489c-92c1-3f50a2731b97)
 
 ![s7](https://github.com/bathula-deepika/SBSH-website/assets/152024848/9baa1ae0-fc59-41bc-b987-c119066a9c22)
+
 ![s8](https://github.com/bathula-deepika/SBSH-website/assets/152024848/6b8aa9ed-4e3e-4f43-b533-67b1e4afefd3)
+
 ![s9](https://github.com/bathula-deepika/SBSH-website/assets/152024848/be2ba8b1-874e-4fca-bc20-f93ebf691380)
+
 ![s10](https://github.com/bathula-deepika/SBSH-website/assets/152024848/6bad673d-dc01-451b-b639-4f7852805c22)
+
 ![s11](https://github.com/bathula-deepika/SBSH-website/assets/152024848/5a31532d-0750-475c-be7b-b79d35905a69)
+
 ![s12](https://github.com/bathula-deepika/SBSH-website/assets/152024848/6848c1c3-2a58-4541-b411-b522278cfe34)
+
 ![s13](https://github.com/bathula-deepika/SBSH-website/assets/152024848/6c34d59b-bee3-426d-a221-d6012fe6e856)
+
 ![s14](https://github.com/bathula-deepika/SBSH-website/assets/152024848/27f410c0-b70c-402f-b69c-265344da4c98)
 ![s15](https://github.com/bathula-deepika/SBSH-website/assets/152024848/5612772d-dbf7-48f9-8ba1-a5b6a0493bf4)
 ![s16](https://github.com/bathula-deepika/SBSH-website/assets/152024848/e8cc1df4-fe0c-4f47-9dda-91f865ab3daf)
