@@ -40,12 +40,12 @@ To empower users in their decision-making process, the website will integrate ad
 # CORE AZURE SERVICES:
 **Azure Storage Account**<br>
 Azure Storage Account is a cloud-based storage solution provided by Microsoft Azure, a leading cloud computing platform. It serves as a scalable and secure repository for various types of data, offering a range of storage services to meet diverse application needs.<br>
-**STORAGE ACCOUNT**![storage account](https://github.com/bathula-deepika/SBSH-website/assets/151847629/ba5f11a5-dcac-4f6f-8606-0c6eeaa9073a)
+![storage account](https://github.com/bathula-deepika/SBSH-website/assets/151847629/ba5f11a5-dcac-4f6f-8606-0c6eeaa9073a)
 
 **Azure Blob Storage**<br>
  Azure Blob Storage is a cloud-based object storage service in Microsoft Azure, designed for storing and managing large amounts of unstructured data, such as documents, images, and videos. It provides scalable and secure storage, supporting different access tiers based on data usage patterns. Blob Storage is commonly used for backup, data archiving, and serving content to web applications.<br>
  **BLOBSTORAGE**![container](https://github.com/bathula-deepika/SBSH-website/assets/151847629/ad9b9c9c-44ee-4d0e-8a04-2f77debba83d)
- **CONTAINER**![$web](https://github.com/bathula-deepika/SBSH-website/assets/152024848/45af2293-f489-438a-a62a-538936691447)
+ ![$web](https://github.com/bathula-deepika/SBSH-website/assets/152024848/45af2293-f489-438a-a62a-538936691447)
 **Azure Backup Service**<br>
 Azure Backup Service is a cloud-based solution provided by Microsoft Azure that enables organizations to back up and protect their data and workloads in the cloud. It offers a reliable and scalable backup solution with features designed to safeguard critical information.<br>
 **BACKUP VAULT**![backup vault ss](https://github.com/bathula-deepika/SBSH-website/assets/152024848/9755c46a-b9d6-49a3-8e71-c9febb99ffcc)
