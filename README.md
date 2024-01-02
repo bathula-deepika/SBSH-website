@@ -43,6 +43,8 @@ To empower users in their decision-making process, the website will integrate ad
 Azure Storage Account is a cloud-based storage solution provided by Microsoft Azure, a leading cloud computing platform. It serves as a scalable and secure repository for various types of data, offering a range of storage services to meet diverse application needs.<br>
 **Azure Blob Storage**<br>
  Azure Blob Storage is a cloud-based object storage service in Microsoft Azure, designed for storing and managing large amounts of unstructured data, such as documents, images, and videos. It provides scalable and secure storage, supporting different access tiers based on data usage patterns. Blob Storage is commonly used for backup, data archiving, and serving content to web applications.<br>
+ **CONTAINER**![web app service ss](https://github.com/bathula-deepika/SBSH-website/assets/152024848/a2d1c585-44c5-471c-9b3e-ba0d13a7f8e5)
+
 **Azure Backup Service**<br>
 Azure Backup Service is a cloud-based solution provided by Microsoft Azure that enables organizations to back up and protect their data and workloads in the cloud. It offers a reliable and scalable backup solution with features designed to safeguard critical information.<br>
 **Azure App Service**<br>
@@ -61,7 +63,6 @@ Azure AI services encompass a suite of artificial intelligence (AI) offerings pr
 Azure Search Service is a fully managed, cloud-based search-as-a-service solution provided by Microsoft Azure. It allows developers to integrate powerful search capabilities into their applications without the need for complex infrastructure or extensive search engine expertise.<br>
 
 # SCREENSHOTS
-**CONTAINER**![web app service ss](https://github.com/bathula-deepika/SBSH-website/assets/152024848/a2d1c585-44c5-471c-9b3e-ba0d13a7f8e5)
 **STORAGE ACCOUNT**![storage account](https://github.com/bathula-deepika/SBSH-website/assets/152024848/901548ae-6deb-4731-9bfd-665b0f34ef33)
 **STATIC WEBSITE**![static website ss](https://github.com/bathula-deepika/SBSH-website/assets/152024848/6e86e1ac-b20b-4786-aea9-e2197b0ef072)
 **SEARCH SERVICE**![search service ss](https://github.com/bathula-deepika/SBSH-website/assets/152024848/03425672-763c-419b-906d-9ac8f3250fac)
