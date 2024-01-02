@@ -41,38 +41,37 @@ To empower users in their decision-making process, the website will integrate ad
 # CORE AZURE SERVICES:
 **Azure Storage Account**<br>
 Azure Storage Account is a cloud-based storage solution provided by Microsoft Azure, a leading cloud computing platform. It serves as a scalable and secure repository for various types of data, offering a range of storage services to meet diverse application needs.<br>
+**STORAGE ACCOUNT**![storage account](https://github.com/bathula-deepika/SBSH-website/assets/152024848/901548ae-6deb-4731-9bfd-665b0f34ef33)
 **Azure Blob Storage**<br>
  Azure Blob Storage is a cloud-based object storage service in Microsoft Azure, designed for storing and managing large amounts of unstructured data, such as documents, images, and videos. It provides scalable and secure storage, supporting different access tiers based on data usage patterns. Blob Storage is commonly used for backup, data archiving, and serving content to web applications.<br>
  **CONTAINER**![web app service ss](https://github.com/bathula-deepika/SBSH-website/assets/152024848/a2d1c585-44c5-471c-9b3e-ba0d13a7f8e5)
-
 **Azure Backup Service**<br>
 Azure Backup Service is a cloud-based solution provided by Microsoft Azure that enables organizations to back up and protect their data and workloads in the cloud. It offers a reliable and scalable backup solution with features designed to safeguard critical information.<br>
+**BACKUP VAULT**![backup vault ss](https://github.com/bathula-deepika/SBSH-website/assets/152024848/9755c46a-b9d6-49a3-8e71-c9febb99ffcc)
 **Azure App Service**<br>
 Azure App Service is a fully managed platform-as-a-service (PaaS) offering from Microsoft Azure that enables developers to build, deploy, and scale web apps and APIs quickly and efficiently. It provides a comprehensive set of features and tools for developing and hosting applications without the complexity of managing infrastructure.<br>
 **Azure App Service Plan**<br>
 Azure App Service Plan is a foundational component within Microsoft Azure that defines the region, compute resources, and features available to host web applications, mobile app backends, and RESTful APIs using Azure App Service.<br>
+**APP SERVICE PLAN**![app service plan](https://github.com/bathula-deepika/SBSH-website/assets/152024848/05e441bf-44bf-4257-89d6-c285e3ad1041)
 
 # AZURE AI SERVICES:
 **Azure Bot Service**<br>
 Azure Bot Service is a cloud-based service provided by Microsoft Azure that enables the development, deployment, and management of intelligent bots. Bots created using Azure Bot Service can interact with users across various channels, such as web, mobile, Microsoft Teams, Skype, and more.<br>
+**AZURE BOT SERVICE**![azure bot service ss](https://github.com/bathula-deepika/SBSH-website/assets/152024848/be8a230d-29fb-425e-88a7-3a79e9d9c317)
 **Manage Identity**<br>
 Azure Managed Identity is a service in Microsoft Azure that enhances the security and ease of access to cloud resources by providing an identity management solution for applications and services.<br>
+**MANAGE IDENTITY**![manage identity](https://github.com/bathula-deepika/SBSH-website/assets/152024848/7b6c12dd-732d-4769-9f83-d5954fa3b54a)
 **Azure AI Service**<br>
 Azure AI services encompass a suite of artificial intelligence (AI) offerings provided by Microsoft Azure, designed to empower developers and businesses to integrate AI capabilities into their applications and workflows.<br>
 **Search Service**<br>
 Azure Search Service is a fully managed, cloud-based search-as-a-service solution provided by Microsoft Azure. It allows developers to integrate powerful search capabilities into their applications without the need for complex infrastructure or extensive search engine expertise.<br>
+**SEARCH SERVICE**![search service ss](https://github.com/bathula-deepika/SBSH-website/assets/152024848/03425672-763c-419b-906d-9ac8f3250fac)
 
 # SCREENSHOTS
-**STORAGE ACCOUNT**![storage account](https://github.com/bathula-deepika/SBSH-website/assets/152024848/901548ae-6deb-4731-9bfd-665b0f34ef33)
 **STATIC WEBSITE**![static website ss](https://github.com/bathula-deepika/SBSH-website/assets/152024848/6e86e1ac-b20b-4786-aea9-e2197b0ef072)
-**SEARCH SERVICE**![search service ss](https://github.com/bathula-deepika/SBSH-website/assets/152024848/03425672-763c-419b-906d-9ac8f3250fac)
-**MANAGE IDENTITY**![manage identity](https://github.com/bathula-deepika/SBSH-website/assets/152024848/7b6c12dd-732d-4769-9f83-d5954fa3b54a)
 **LANGUAGE SERVICE**![language sevice ss](https://github.com/bathula-deepika/SBSH-website/assets/152024848/7e8dc97b-187c-4f1f-861b-72d827df37d3)
 **DATA PROTECTION**![data protection ss](https://github.com/bathula-deepika/SBSH-website/assets/152024848/64bee726-6b86-4341-bc46-54297533c79a)
 **BOT.HTML**![bot](https://github.com/bathula-deepika/SBSH-website/assets/152024848/1ff4de0b-7c1a-4e9e-9270-c9c015b58a18)
-**BACKUP VAULT**![backup vault ss](https://github.com/bathula-deepika/SBSH-website/assets/152024848/9755c46a-b9d6-49a3-8e71-c9febb99ffcc)
-**AZURE BOT SERVICE**![azure bot service ss](https://github.com/bathula-deepika/SBSH-website/assets/152024848/be8a230d-29fb-425e-88a7-3a79e9d9c317)
-**APP SERVICE PLAN**![app service plan](https://github.com/bathula-deepika/SBSH-website/assets/152024848/05e441bf-44bf-4257-89d6-c285e3ad1041)
 **CONTAINER**![$web](https://github.com/bathula-deepika/SBSH-website/assets/152024848/45af2293-f489-438a-a62a-538936691447)
 **CHATBOT**![Screenshot 2023-12-21 151809](https://github.com/bathula-deepika/SBSH-website/assets/152024848/158ec500-cb9c-4fd5-ac17-895c63ef84a0)
 
