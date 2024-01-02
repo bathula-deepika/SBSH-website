@@ -40,6 +40,7 @@ To empower users in their decision-making process, the website will integrate ad
 # CORE AZURE SERVICES:
 **Azure Storage Account**<br>
 Azure Storage Account is a cloud-based storage solution provided by Microsoft Azure, a leading cloud computing platform. It serves as a scalable and secure repository for various types of data, offering a range of storage services to meet diverse application needs.<br>
+
 ![storage account](https://github.com/bathula-deepika/SBSH-website/assets/151847629/ba5f11a5-dcac-4f6f-8606-0c6eeaa9073a)
 
 **Azure Blob Storage**<br>
