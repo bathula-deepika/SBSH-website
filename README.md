@@ -116,12 +116,16 @@ Azure Search Service is a fully managed, cloud-based search-as-a-service solutio
 ![s13](https://github.com/bathula-deepika/SBSH-website/assets/152024848/6c34d59b-bee3-426d-a221-d6012fe6e856)
 
 ![s14](https://github.com/bathula-deepika/SBSH-website/assets/152024848/27f410c0-b70c-402f-b69c-265344da4c98)
+
 ![s15](https://github.com/bathula-deepika/SBSH-website/assets/152024848/5612772d-dbf7-48f9-8ba1-a5b6a0493bf4)
+
 ![s16](https://github.com/bathula-deepika/SBSH-website/assets/152024848/e8cc1df4-fe0c-4f47-9dda-91f865ab3daf)
+
 ![s17](https://github.com/bathula-deepika/SBSH-website/assets/152024848/3f77a142-3ad4-42c7-939c-a4fdeb4864fc)
+
 **CHATBOT**![Screenshot 2023-12-21 151425](https://github.com/bathula-deepika/SBSH-website/assets/152024848/fb3914b8-8f16-444a-bfa2-a6044276e481)
 
-
 **RESOURCE VISUALIZER**![resourse visualizer](https://github.com/bathula-deepika/SBSH-website/assets/152024848/121b5197-6cb7-4f54-bb99-fd602bde91ca)
+
 # FINAL PROJECT STATEMENT:
 "SIMPLE BUILD SIMPLE HEAVEN" aims to redefine the real estate experience by combining innovative technology, user-centric design, and comprehensive features. This project seeks to empower both homebuyers and real estate professionals, fostering a modern and efficient ecosystem for the real estate industry.
