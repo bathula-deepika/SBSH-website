@@ -62,7 +62,8 @@ Azure Bot Service is a cloud-based service provided by Microsoft Azure that enab
 
 **Manage Identity**<br>
 Azure Managed Identity is a service in Microsoft Azure that enhances the security and ease of access to cloud resources by providing an identity management solution for applications and services.<br>
-**MANAGE IDENTITY**![manage identity](https://github.com/bathula-deepika/SBSH-website/assets/152024848/7b6c12dd-732d-4769-9f83-d5954fa3b54a)
+![manage identity](https://github.com/bathula-deepika/SBSH-website/assets/152024848/7b6c12dd-732d-4769-9f83-d5954fa3b54a)
+
 **Azure AI Service**<br>
 Azure AI services encompass a suite of artificial intelligence (AI) offerings provided by Microsoft Azure, designed to empower developers and businesses to integrate AI capabilities into their applications and workflows.<br>
 **Search Service**<br>
