@@ -3,7 +3,7 @@
 "Unlock Your Dream Home: Where Every Key Opens a New Chapter."
 
 # Project Details:
-  1. Project Demo URL : (https://sbsh12354.z9.web.core.windows.net/)
+  1. Project Demo URL : (https://sbsh12345.z27.web.core.windows.net/)
   1. Demo Video URL : (https://youtu.be/CpKofPh8BeY)
   1. Github Repository URL : (https://github.com/bathula-deepika/SBSH-website)
   1. Industry : REAL ESTATE WEBSITE HOUSE RENT & SALES
