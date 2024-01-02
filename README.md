@@ -75,7 +75,7 @@ Azure AI services encompass a suite of artificial intelligence (AI) offerings pr
 **Search Service**<br>
 Azure Search Service is a fully managed, cloud-based search-as-a-service solution provided by Microsoft Azure. It allows developers to integrate powerful search capabilities into their applications without the need for complex infrastructure or extensive search engine expertise.<br>
 
-**SEARCH SERVICE**![search service ss](https://github.com/bathula-deepika/SBSH-website/assets/152024848/03425672-763c-419b-906d-9ac8f3250fac)
+![search service ss](https://github.com/bathula-deepika/SBSH-website/assets/152024848/03425672-763c-419b-906d-9ac8f3250fac)
 
 # SCREENSHOTS
 **STATIC WEBSITE**![website](https://github.com/bathula-deepika/SBSH-website/assets/151846921/c844a540-d7eb-48aa-8cdf-f8119e85dff9)
@@ -85,15 +85,22 @@ Azure Search Service is a fully managed, cloud-based search-as-a-service solutio
 **DATA PROTECTION**![data protection ss](https://github.com/bathula-deepika/SBSH-website/assets/152024848/64bee726-6b86-4341-bc46-54297533c79a)
 
 **BOT.HTML**![bot](https://github.com/bathula-deepika/SBSH-website/assets/152024848/1ff4de0b-7c1a-4e9e-9270-c9c015b58a18)
+
 **CHATBOT**![Screenshot 2023-12-21 151809](https://github.com/bathula-deepika/SBSH-website/assets/152024848/158ec500-cb9c-4fd5-ac17-895c63ef84a0)
 
 # WORKING LIVE PROJECT DISPLAY:
 ![s1](https://github.com/bathula-deepika/SBSH-website/assets/152024848/c3e5c260-123f-4308-a566-2d5b4c531d07)
+
 ![s2](https://github.com/bathula-deepika/SBSH-website/assets/152024848/33bfdd2e-fb31-4c0c-8cbc-ac2e10d462fc)
+
 ![s3](https://github.com/bathula-deepika/SBSH-website/assets/152024848/fa9fd37f-deb2-4dc9-b867-c90fab10d3e4)
+
 ![s4](https://github.com/bathula-deepika/SBSH-website/assets/152024848/c8fe7f9b-1906-4782-bdaa-7a189fc50da0)
+
 ![s5](https://github.com/bathula-deepika/SBSH-website/assets/152024848/121d93ad-4ecd-4b6f-84a3-f6d3572daf25)
+
 ![s6](https://github.com/bathula-deepika/SBSH-website/assets/152024848/563e257e-6c14-489c-92c1-3f50a2731b97)
+
 ![s7](https://github.com/bathula-deepika/SBSH-website/assets/152024848/9baa1ae0-fc59-41bc-b987-c119066a9c22)
 ![s8](https://github.com/bathula-deepika/SBSH-website/assets/152024848/6b8aa9ed-4e3e-4f43-b533-67b1e4afefd3)
 ![s9](https://github.com/bathula-deepika/SBSH-website/assets/152024848/be2ba8b1-874e-4fca-bc20-f93ebf691380)
