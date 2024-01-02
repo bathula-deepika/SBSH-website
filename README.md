@@ -68,7 +68,8 @@ Azure Search Service is a fully managed, cloud-based search-as-a-service solutio
 
 # SCREENSHOTS
 **STATIC WEBSITE**![static website ss](https://github.com/bathula-deepika/SBSH-website/assets/152024848/6e86e1ac-b20b-4786-aea9-e2197b0ef072)
-**LANGUAGE SERVICE**![language sevice ss](https://github.com/bathula-deepika/SBSH-website/assets/152024848/7e8dc97b-187c-4f1f-861b-72d827df37d3)
+**LANGUAGE SERVICE**![language](https://github.com/bathula-deepika/SBSH-website/assets/151846921/6bc8111f-e4e5-45f5-adf1-c44e4c99a074)
+
 **DATA PROTECTION**![data protection ss](https://github.com/bathula-deepika/SBSH-website/assets/152024848/64bee726-6b86-4341-bc46-54297533c79a)
 **BOT.HTML**![bot](https://github.com/bathula-deepika/SBSH-website/assets/152024848/1ff4de0b-7c1a-4e9e-9270-c9c015b58a18)
 **CHATBOT**![Screenshot 2023-12-21 151809](https://github.com/bathula-deepika/SBSH-website/assets/152024848/158ec500-cb9c-4fd5-ac17-895c63ef84a0)
