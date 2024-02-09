@@ -128,4 +128,5 @@ Azure Search Service is a fully managed, cloud-based search-as-a-service solutio
 **RESOURCE VISUALIZER**![resourse visualizer](https://github.com/bathula-deepika/SBSH-website/assets/152024848/121b5197-6cb7-4f54-bb99-fd602bde91ca)
 
 # FINAL PROJECT STATEMENT:
-"SIMPLE BUILD SIMPLE HEAVEN" aims to redefine the real estate experience by combining innovative technology, user-centric design, and comprehensive features. This project seeks to empower both homebuyers and real estate professionals, fostering a modern and efficient ecosystem for the real estate industry.
+
+ShopeXpress, an innovative eCommerce platform, emerges as a comprehensive online marketplace designed to redefine the digital shopping experience. Focused on delivering unparalleled convenience and a diverse product range, ShopeXpress caters to the dynamic needs of modern consumers.
